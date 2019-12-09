@@ -1,0 +1,13 @@
+li a {
+    font-size: 20px;
+    color: blue;
+}
+
+body{
+    color: white;
+    background: white url("images/blue.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
